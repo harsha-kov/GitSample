@@ -7,6 +7,8 @@ public class Sample {
 		System.out.println("Sample Program");
 		System.out.println("Sample Test");
 		System.out.println("Sample 1");
+		System.out.println("Demp Class");
+
 	}
 
 }
